@@ -8,3 +8,4 @@ DO NOT TRY TO FORK AND CLONE THESE PENS. THEY WERE CREATED ON CODEPEN, AND I HAV
 -Text Parsing Algorithim: https://coderpad.io/W2WFN2R2
 -React Currency Exchange http://codepen.io/15chrjef/pen/qRXrxq
 -MomentJS Examples http://codepen.io/15chrjef/pen/MJEKYP?editors=0001
+-Fun With Promises http://codepen.io/15chrjef/pen/OWQrRJ?editors=0010#
