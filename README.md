@@ -10,3 +10,4 @@ THEY WERE CREATED ON CODEPEN, AND I HAVE LISTED THE LINKS HERE TO VIEW THE FUNCT
 -React Currency Exchange http://codepen.io/15chrjef/pen/qRXrxq
 -MomentJS Examples http://codepen.io/15chrjef/pen/MJEKYP?editors=0001
 -Fun With Promises http://codepen.io/15chrjef/pen/OWQrRJ?editors=0010#
+-Promise.All from scratch http://codepen.io/15chrjef/pen/mRxRMx?editors=0011
