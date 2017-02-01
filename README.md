@@ -12,3 +12,4 @@ THEY WERE CREATED ON CODEPEN, AND I HAVE LISTED THE LINKS HERE TO VIEW THE FUNCT
 -Fun With Promises http://codepen.io/15chrjef/pen/OWQrRJ?editors=0010#
 -Promise.All from scratch http://codepen.io/15chrjef/pen/mRxRMx?editors=0011
 `
+ 
