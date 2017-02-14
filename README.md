@@ -13,3 +13,4 @@ THEY WERE CREATED ON CODEPEN, AND I HAVE LISTED THE LINKS HERE TO VIEW THE FUNCT
         -FizzBuzz Vizualization http://codepen.io/15chrjef/pen/mRGOwv?editors=0011er
         -FilterWords http://codepen.io/15chrjef/pen/bgmdYX
         -StateCitySearch https://codepen.io/15chrjef/pen/MJPyRJ?editors=1010
+        -EcommerceItem http://codepen.io/15chrjef/pen/BpMeyW?editors=0010
